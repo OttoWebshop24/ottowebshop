@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8df225860d999aeb681b873f930b0594",
+    "revision": "2c07c0c1885d2b058cd614be224ed595",
     "url": "/ottowebshop/index.html"
   },
   {
-    "revision": "8162f9e0bbea08c2b34b",
+    "revision": "301e049661658552f76c",
     "url": "/ottowebshop/static/css/main.c14068c8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ottowebshop/static/js/2.54d2b4cd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8162f9e0bbea08c2b34b",
-    "url": "/ottowebshop/static/js/main.388c5b01.chunk.js"
+    "revision": "301e049661658552f76c",
+    "url": "/ottowebshop/static/js/main.405d58a4.chunk.js"
   },
   {
     "revision": "a72c5b76c15e5b0c0c98",

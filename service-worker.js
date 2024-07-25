@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ottowebshop/precache-manifest.bf343160a42c1182b5bf26b3ab044b9f.js"
+  "/ottowebshop/precache-manifest.947c875a13d4c93965b5e9870382f6d4.js"
 );
 
 self.addEventListener('message', (event) => {
