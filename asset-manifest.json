@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ottowebshop/static/css/main.c14068c8.chunk.css",
-    "main.js": "/ottowebshop/static/js/main.b1dae896.chunk.js",
-    "main.js.map": "/ottowebshop/static/js/main.b1dae896.chunk.js.map",
+    "main.js": "/ottowebshop/static/js/main.9ccd36aa.chunk.js",
+    "main.js.map": "/ottowebshop/static/js/main.9ccd36aa.chunk.js.map",
     "runtime-main.js": "/ottowebshop/static/js/runtime-main.bb0c174b.js",
     "runtime-main.js.map": "/ottowebshop/static/js/runtime-main.bb0c174b.js.map",
     "static/js/2.54d2b4cd.chunk.js": "/ottowebshop/static/js/2.54d2b4cd.chunk.js",
     "static/js/2.54d2b4cd.chunk.js.map": "/ottowebshop/static/js/2.54d2b4cd.chunk.js.map",
     "index.html": "/ottowebshop/index.html",
-    "precache-manifest.9f706fdde0a99b542b1aeaf58f146f88.js": "/ottowebshop/precache-manifest.9f706fdde0a99b542b1aeaf58f146f88.js",
+    "precache-manifest.3c0ddf774cba88afa6aefea1ea1cdbc3.js": "/ottowebshop/precache-manifest.3c0ddf774cba88afa6aefea1ea1cdbc3.js",
     "service-worker.js": "/ottowebshop/service-worker.js",
     "static/css/main.c14068c8.chunk.css.map": "/ottowebshop/static/css/main.c14068c8.chunk.css.map",
     "static/js/2.54d2b4cd.chunk.js.LICENSE.txt": "/ottowebshop/static/js/2.54d2b4cd.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.bb0c174b.js",
     "static/js/2.54d2b4cd.chunk.js",
     "static/css/main.c14068c8.chunk.css",
-    "static/js/main.b1dae896.chunk.js"
+    "static/js/main.9ccd36aa.chunk.js"
   ]
 }
